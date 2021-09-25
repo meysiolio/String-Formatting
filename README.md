@@ -7,8 +7,6 @@ Given an integer, *n*, print the following values for each integer *i* from *1* 
 
 **Function Description**
 
-Complete the print_formatted function in the editor below.
-
 print_formatted has the following parameters:
 
 * int number: the maximum value to print
